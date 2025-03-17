@@ -20,6 +20,7 @@ public class Employee {
     return salary;
   }
 
+  // TODO: Introduce an Intern role that does not receive a bonus.
   public double calculateBonus() {
     if (type.equals("Manager")) {
       return salary * 0.20;
