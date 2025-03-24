@@ -1,4 +1,4 @@
-package com.lifefitness.interview.service;
+package com.lifefitness.service;
 
 import com.lifefitness.interview.model.Employee;
 

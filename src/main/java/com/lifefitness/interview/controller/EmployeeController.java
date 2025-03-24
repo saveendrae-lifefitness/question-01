@@ -1,7 +1,7 @@
 package com.lifefitness.interview.controller;
 
 import com.lifefitness.interview.model.Employee;
-import com.lifefitness.interview.service.EmployeeService;
+import com.lifefitness.service.EmployeeService;
 
 @RestController
 @RequestMapping("/employees")
